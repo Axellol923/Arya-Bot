@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
+  "name": "꧁ʚ𝕘𝕠𝕜𝕦❖𝕓𝕠𝕥ɞ꧂",
   "version": "1.0.0",
-  "description": "",
+  "description": "★ミ𝚋𝚘𝚝 𝚙𝚊𝚛𝚊 𝚠𝚑𝚊𝚝𝚝𝚜𝚊𝚙𝚙彡★",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "3319046619",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
